@@ -4,4 +4,4 @@ Cadangan Resolusi tahun ni
 - Belajar Laravel 
 
 Outcome
--
+- Siapkan Flutter project
